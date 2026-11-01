@@ -1,0 +1,21 @@
+project_id,project_name,project_manager,progress_percent,days_remaining,team_size
+P001,Banking Application,E025,37,114,4
+P002,E-Commerce Platform,E066,73,39,15
+P003,Healthcare Management System,E041,52,72,3
+P004,Sales Dashboard,E014,40,52,6
+P005,Customer Management System,E008,26,71,3
+P006,Inventory Management System,E033,67,80,13
+P007,Mobile Banking App,E086,41,114,8
+P008,HR Management System,E051,73,12,13
+P009,Data Analytics Platform,E027,40,34,3
+P010,Online Learning Platform,E028,83,101,7
+P011,Insurance Management System,E061,67,23,6
+P012,Travel Booking System,E035,83,53,3
+P013,Food Delivery Platform,E044,49,97,7
+P014,CRM Application,E006,56,28,15
+P015,Financial Analytics System,E046,72,99,5
+P016,Employee Portal,E060,82,89,9
+P017,Payment Gateway,E033,86,22,11
+P018,Supply Chain System,E095,73,62,5
+P019,Marketing Analytics Platform,E046,43,118,8
+P020,Cloud Migration Project,E023,85,31,12
